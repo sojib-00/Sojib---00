@@ -12,17 +12,17 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "𝐒𝐡𝐢𝐳𝐮𝐤𝐚 𝐛𝐛𝐲 🎀",
+	"prefix": ",",
 	"api":"https://noobs-api.rf.gd/dipto",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [61550628934323],
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": [],
+		"whiteListIds": [61550628934323],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
